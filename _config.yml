@@ -2,7 +2,7 @@
 # Jekyll Config
 # --------------------
 baseurl: ""
-url: "https://jekyll-advance.netlify.app"
+url: "https://github.com/desa-eapd/test_jekyll_advance"
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
