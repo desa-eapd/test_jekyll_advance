@@ -5,10 +5,10 @@ main:
   - name: OG Core
     url: /og-core/
     weight: 2
- - name: CLEWs
+  - name: CLEWs
     url: /clews/
     weight: 3
-- name: WEFM
+  - name: WEFM
     url: /wefm/
     weight: 4
   - name: News & Events
