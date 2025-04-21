@@ -8,13 +8,14 @@ meta_title: Jekyll Advance - Premium Jekyll Theme
 
 hero:
   enabled: true
-  heading: "Jekyll Advance"
-  sub_heading: "Built using highly configurable sections, Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+  heading: "Rebuilding Better and Greener from the COVID-19 Pandemic"
+  sub_heading: "Strengthening policymaking for a sustainable future through data-driven simulations "
+
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
-  background_image: "/assets/images/gen/home/home-1-large.webp"
-  background_image_blend_mode: overlay # "overlay", "multiply", "screen"
+  #background_image: "/assets/images/gen/home/home-1-large.webp"
+  #background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   fullscreen_mobile: true
   fullscreen_desktop: false
   height: "660px"
