@@ -1,8 +1,8 @@
 main:
-  - name: Home
+  - name: About the Project
     url: /
     weight: 1
-  - name: Services
+  - name: AA
     url: /services/
     weight: 1
     child:
@@ -18,7 +18,7 @@ main:
         url: /services/seo/
       - name: "Software Engineering"
         url: /services/software-engineering/
-  - name: Projects
+  - name: BB
     url: /projects/
     weight: 2
     child:
