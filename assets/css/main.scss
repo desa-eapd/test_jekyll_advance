@@ -45,5 +45,18 @@ html[data-bs-theme='dark'] {
   --color-logo-text: {{ site.colors.logo_text_dark | default: "#F4F4F5" }};
   --color-header-text: {{ site.colors.header_text_dark | default: "#F4F4F5" }};
 }
+.site-header {
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+.menu-link {
+  color: black;
+  transition: color 0.3s ease;
+}
+
+/* When scrolled: add a class like .scrolled */
+.site-header.scrolled .menu-link {
+  color: white;
+}
 
 @import 'style';
