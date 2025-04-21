@@ -39,10 +39,10 @@ hero:
 
 services:
   enabled: true
-  background_image: "/assets/images/gen/home/key_tools.png"
-  heading: "Our Services"
+  image: "/assets/images/gen/home/key_tools.png"
+  heading: "Key Tools for Policy Insights"
   sub_heading: ""
-  limit: 6
+  limit: 3
   sort: "weight" # 'date'
   view_more_button_text: "View All Services"
   view_more_button_link: "/services"
