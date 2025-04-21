@@ -1,4 +1,7 @@
-{% assign hero = include or page.hero %}
+{% assign hero = include.hero %}
+{% if hero == nil %}
+  {% assign hero = page.hero %}
+{% endif %}
 
 {% assign heading = hero.heading %}
 {% assign sub_heading = hero.sub_heading %}
