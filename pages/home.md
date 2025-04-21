@@ -39,7 +39,7 @@ hero:
 
 services:
   enabled: true
-  image: "/assets/images/gen/home/key_tools.png"
+  align: center
   heading: "Key Tools for Policy Insights"
   sub_heading: ""
   limit: 3
