@@ -4,10 +4,10 @@ main:
     weight: 1
   - name: OG-Core
     url: /og-core/
-    weight: 1
+    weight: 2
  - name: CLEWs
     url: /clews/
-    weight: 2
+    weight: 3
 - name: WEFM
     url: /wefm/
     weight: 4
