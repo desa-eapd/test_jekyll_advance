@@ -14,13 +14,11 @@ hero:
   buttons:
     enabled: true
     list:
-      - text: "Learn More about the Project"
-        url: "/about"
+      - text: "Contact Us"
+        url: "/contact"
         external: false
-        fa_icon: ""
-        size: large
-        outline: false
-        style: "primary"
+        size: "large"
+
   height: "660px"
   text_color: "#FFFFFF"
   background_color: "#1d2830"
