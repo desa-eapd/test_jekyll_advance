@@ -8,8 +8,8 @@ meta_title: Jekyll Advance - Premium Jekyll Theme
 
 hero:
   enabled: true
-  heading: "Rebuilding Better and Greener from the COVID-19 Pandemic"
-  sub_heading: "Strengthening policymaking for a sustainable future through data-driven simulations"
+  heading: "Jekyll Advance"
+  sub_heading: "Built using highly configurable sections, Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
@@ -18,7 +18,23 @@ hero:
   fullscreen_mobile: true
   fullscreen_desktop: false
   height: "660px"
-
+  buttons:
+    enabled: false
+    list:
+      - text: "Buy Now"
+        url: "https://www.zerostatic.io/theme/jekyll-advance/"
+        external: true
+        fa_icon: false
+        size: large # "small", "normal", "large"
+        outline: false
+        style: "light" # "light", "dark", "primary"
+      - text: "Documentation"
+        url: "https://www.zerostatic.io/docs/jekyll-advance/v2.0/"
+        external: true
+        fa_icon: false
+        size: large
+        outline: true
+        style: "light"
 
 services:
   enabled: true
