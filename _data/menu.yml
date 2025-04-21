@@ -5,19 +5,7 @@ main:
   - name: AA
     url: /services/
     weight: 1
-    child:
-      - name: "Web Development"
-        url: /services/web-development/
-      - name: "UX"
-        url: /services/user-experience/
-      - name: "Branding"
-        url: /services/branding/
-      - name: "Web Design"
-        url: /services/web-design/
-      - name: "SEO"
-        url: /services/seo/
-      - name: "Software Engineering"
-        url: /services/software-engineering/
+   
   - name: BB
     url: /projects/
     weight: 2
