@@ -39,6 +39,7 @@ hero:
 
 services:
   enabled: true
+  background_image: "/assets/images/gen/home/key_tools.png"
   heading: "Our Services"
   sub_heading: ""
   limit: 6
