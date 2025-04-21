@@ -10,7 +10,7 @@ hero:
   enabled: true
   heading: "Rebuilding Better and Greener from the COVID-19 Pandemic"
   sub_heading: "Strengthening policymaking for a sustainable future through data-driven simulations "
-  height: "660px"
+  
   buttons:
     enabled: true
     list:
@@ -21,7 +21,7 @@ hero:
         size: large
         outline: false
         style: "primary"
-
+  height: "660px"
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
