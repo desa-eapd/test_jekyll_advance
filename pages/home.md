@@ -10,6 +10,16 @@ hero:
   enabled: true
   heading: "Rebuilding Better and Greener from the COVID-19 Pandemic"
   sub_heading: "Strengthening policymaking for a sustainable future through data-driven simulations "
+  buttons:
+    enabled: true
+    list:
+      - text: "Learn More about the Project"
+        url: "/about"
+        external: false
+        fa_icon: ""
+        size: large
+        outline: false
+        style: "primary"
 
   text_color: "#FFFFFF"
   background_color: "#1d2830"
@@ -65,32 +75,8 @@ intro:
         fa_icon: "fas fa-check"
       - text: "Multiple content types including services, projects, blog and more."
         fa_icon: "fas fa-check"
-  buttons:
-    enabled: true
-    list:
-      - text: "About Us"
-        url: "/about"
-        external: false
-        fa_icon: ""
-        size: large
-        outline: false
-        style: "primary"
+ 
 
-partners:
-  enabled: true
-  limit: 5
-  sort: "weight" # 'date'
-
-projects:
-  enabled: true
-  heading: "Our Projects"
-  sub_heading: ""
-  limit: 2
-  columns: 2
-  sort: "weight" # 'date'
-  view_more_button_text: "View All Projects"
-  view_more_button_link: "/projects"
-  prevent_click: false
 
 outro:
   enabled: true
