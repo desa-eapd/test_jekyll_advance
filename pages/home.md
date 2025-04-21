@@ -40,7 +40,7 @@ hero:
 services:
   enabled: true
   align: center
-  heading: "Key Tools for Policy Insights"
+  heading: "_______________Key Tools for Policy Insights___________________"
   sub_heading: ""
   limit: 3
   sort: "weight" # 'date'
