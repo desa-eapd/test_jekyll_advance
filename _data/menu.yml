@@ -2,7 +2,7 @@ main:
   - name: About the Project
     url: https://desa-eapd.github.io/test_jekyll_advance/
     weight: 1
-  - name: OG-Core
+  - name: OG Core
     url: /og-core/
     weight: 2
  - name: CLEWs
