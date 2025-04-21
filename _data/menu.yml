@@ -2,39 +2,17 @@ main:
   - name: About the Project
     url: https://desa-eapd.github.io/test_jekyll_advance/
     weight: 1
-  - name: Services
-    url: /services/
+  - name: OG-Core
+    url: /og-core/
     weight: 1
-    child:
-      - name: "Web Development"
-        url: /services/web-development/
-      - name: "UX"
-        url: /services/user-experience/
-      - name: "Branding"
-        url: /services/branding/
-      - name: "Web Design"
-        url: /services/web-design/
-      - name: "SEO"
-        url: /services/seo/
-      - name: "Software Engineering"
-        url: /services/software-engineering/
-  - name: Projects
-    url: /projects/
+ - name: CLEWs
+    url: /clews/
     weight: 2
-    child:
-      - name: "Book Design"
-        url: /projects/book-design/
-      - name: "Special Edition"
-        url: /projects/special-edition/
-      - name: "Master System"
-        url: /projects/master-system/
-      - name: "Clothing Range"
-        url: /projects/clothing-range/
-  - name: Blog
-    url: /blog/
+- name: WEFM
+    url: /wefm/
     weight: 4
-  - name: About
-    url: /about/
+  - name: News & Events
+    url: /newsandevents/
     weight: 5
   - name: Buy Now
     url: https://www.zerostatic.io/theme/jekyll-advance/
