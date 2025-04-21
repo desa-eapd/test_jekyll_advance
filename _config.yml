@@ -2,7 +2,7 @@
 # Jekyll Config
 # --------------------
 baseurl: "https://desa-eapd.github.io/test_jekyll_advance/"
-url: "https://desa-eapd.github.io/test_jekyll_advance/"
+url: 
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
