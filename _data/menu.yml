@@ -1,5 +1,5 @@
 main:
-  - name: Home
+  - name: About the Project
     url: https://desa-eapd.github.io/test_jekyll_advance/
     weight: 1
   - name: Services
