@@ -2,13 +2,14 @@ main:
   - name: About the Project
     url: /
     weight: 1
+
   - name: OG-Core
     url: /OG-Core/
-    weight: 1
+    weight: 2
    
   - name: CLEWs
     url: /projects/
-    weight: 2
+    weight: 3
  
   - name: WEFM
     url: /about/
