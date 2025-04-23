@@ -45,7 +45,7 @@ hero:
         outline: true
         style: "light"
 
-services:
+_services:
   enabled: true
   text_align: center
   heading: "Key Tools for Policy Insights"
