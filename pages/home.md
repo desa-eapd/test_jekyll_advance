@@ -53,7 +53,7 @@ services:
   limit: 3
   sort: "weight" # 'date'
   view_more_button_text: "View All Services"
-  view_more_button_link: "/services"
+  view_more_button_link: "/og-core"
   prevent_click: false
 
 intro:
