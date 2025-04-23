@@ -35,9 +35,9 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: services
+      type: OG-Core
     values:
-      layout: service
+      layout: OG-Core
   - scope:
       path: ""
       type: projects
