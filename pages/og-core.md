@@ -29,9 +29,9 @@ hero:
         style: "light"
 
 grid:
-  collection: "og-core"
+  collection: "projects"
   sort_by: "weight" # "date", "weight"
-  columns: 3
+  columns: 2
   prevent_click: false
 
 intro:
