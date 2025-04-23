@@ -28,7 +28,7 @@ hero:
   fullscreen_mobile: true
   fullscreen_desktop: false
   buttons:
-    enabled: false
+    enabled: true
     list:
       - text: "Buy Now"
         url: "https://www.zerostatic.io/theme/jekyll-advance/"
