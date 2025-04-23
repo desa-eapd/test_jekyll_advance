@@ -29,7 +29,7 @@ hero:
         style: "light"
 
 grid:
-  collection: "services"
+  collection: "og-core"
   sort_by: "weight" # "date", "weight"
   columns: 3
   prevent_click: false
