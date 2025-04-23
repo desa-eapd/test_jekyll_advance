@@ -7,12 +7,12 @@ header_transparent: true
 
 hero:
   enabled: true
-  heading: "Services"
+  heading: "OG-Core"
   sub_heading: "We offer a complete range of digital services."
   text_color: "#FFFFFF"
   background_color: false
   background_gradient: true
-  background_image: "/assets/images/gen/home/home-8-large.webp"
+  #background_image: "/assets/images/gen/home/home-8-large.webp"
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   fullscreen_mobile: false
   fullscreen_desktop: false
