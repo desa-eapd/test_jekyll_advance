@@ -3,7 +3,7 @@ main:
     url: /
     weight: 1
   - name: OG-Core
-    url: /services/
+    url: /OG-Core/
     weight: 1
    
   - name: CLEWs
