@@ -19,7 +19,7 @@ hero:
         external: false
         size: "large"
 
-  height: "660px"
+  height: "800px"
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
