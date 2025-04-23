@@ -2,7 +2,7 @@
 layout: list
 title: Services
 description: "A selection of our digital services"
-permalink: "/services/"
+permalink: "/og-core/"
 header_transparent: true
 
 hero:
