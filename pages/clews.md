@@ -29,6 +29,10 @@ hero:
         outline: true
         style: "light"
 
+<div style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/9Kg_mXQMSt0" frameborder="0" allowfullscreen></iframe>
+</div>
+
 grid:
   collection: "projects"
   sort_by: "weight" # "date", "weight"
