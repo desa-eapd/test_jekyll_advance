@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Services
+title: OG-Core
 description: "A selection of our digital services"
 permalink: "/og-core/"
 header_transparent: true
