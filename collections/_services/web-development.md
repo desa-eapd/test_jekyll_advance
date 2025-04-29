@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Services
+title: OG-Core
 description: "A selection of our digital services"
 header_transparent: true
 fa_icon: false
