@@ -39,11 +39,10 @@ hero:
         style: "light" # "light", "dark", "primary"
       
   
-  text: "Key Tools for Policy Insights"    
 services:
   enabled: true
   align: center
-  view_more_button_text: "Key Tools for Policy Insights"
+  heading: ".             Key Tools for Policy Insights                          ."
   sub_heading: ""
   limit: 3
   sort: "weight" # 'date'
