@@ -59,4 +59,13 @@ html[data-bs-theme='dark'] {
   color: white;
 }
 
+.button.outline-light {
+  background-color: white !important;
+  color: #2a57f1 !important;
+  border: none !important;
+  border-radius: 8px !important;
+  padding: 12px 24px !important;
+  font-weight: 500 !important;
+}
+
 @import 'style';
