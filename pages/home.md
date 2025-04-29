@@ -50,7 +50,6 @@ services:
   view_more_button_link: "/og-core"
   prevent_click: false
 
-
 posts:
   enabled: true
   heading: "Latest Posts"
