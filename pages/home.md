@@ -4,7 +4,7 @@ permalink: "/"
 title: "Rebuilding Better and Greener from the COVID-19 Pandemic"
 description: "Strengthening policymaking for a sustainable future through data-driven simulations."
 header_transparent: true
-meta_title: Jekyll Advance - Premium Jekyll Theme
+meta_title: Rebuilding Better and Greener from the COVID-19 Pandemic
 
 hero:
   enabled: true
