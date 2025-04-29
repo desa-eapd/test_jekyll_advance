@@ -38,6 +38,8 @@ hero:
         outline: false
         style: "light" # "light", "dark", "primary"
       
+  
+  text: "Key Tools for Policy Insights"    
 services:
   enabled: true
   align: center
