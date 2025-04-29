@@ -38,9 +38,7 @@ hero:
         outline: false
         style: "light" # "light", "dark", "primary"
       
-services:
-  enabled: true
-  align: center
+
   heading: "Key Tools for Policy Insights"
   sub_heading: ""
   limit: 3
