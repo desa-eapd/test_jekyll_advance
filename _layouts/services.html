@@ -19,27 +19,29 @@ body_classes: page-service
   %}
 {% else %}
   <div class="section">
-    <div class="container">
-    {% include framework/title.html
-      fa_icon=page.fa_icon
-      icon=page.icon
-      title=page.title
-      description=page.description
-      image=page.image
-    %}
+    <div class="container text-center">
+      {% include framework/title.html
+        fa_icon=page.fa_icon
+        icon=page.icon
+        title=page.title
+        description=page.description
+        image=page.image
+      %}
     </div>
   </div>
 {% endif %}
 
 <div class="section">
   <div class="container">
-    <div class="row">
+    <div class="row justify-content-center">
 
       <div class="col-12 col-lg-8">
         {% if site.enable_breadcrumbs_services %}
           {% include framework/breadcrumbs.html %}
         {% endif %}
-        <div class="content">{{ content }}</div>
+        <div class="content text-center">
+          {{ content }}
+        </div>
       </div>
 
       {% if site.enable_sidebar_services %}
