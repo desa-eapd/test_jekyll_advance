@@ -40,14 +40,6 @@ grid:
   columns: 2
   prevent_click: false
 
-intro:
-  enabled: false
-  align: left
-  image: false
-  heading: "A Full Service Agency"
-  sub_heading: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget sapien in elit semper accumsan."
-  buttons:
-    enabled: false
 ---
 <!-- NOW YOUR PAGE CONTENT STARTS -->
 
