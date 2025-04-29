@@ -34,9 +34,10 @@ hero:
         url: "https://www.zerostatic.io/theme/jekyll-advance/"
         external: true
         fa_icon: false
-        size: large
-        outline: true
-        style: "light"
+        size: large # "small", "normal", "large"
+        outline: false
+        style: "light" # "light", "dark", "primary"
+      
 services:
   enabled: true
   align: center
