@@ -2,6 +2,12 @@
 layout: list
 title: Services
 description: "A selection of our digital services"
+header_transparent: true
+fa_icon: false
+icon: "assets/images/icons/icons8-design-100.png"
+thumbnail: "/assets/images/gen/services/service-4-thumbnail.webp"
+image: "/assets/images/gen/services/service-4.webp"
+
 permalink: "/og-core/"
 header_transparent: true
 
