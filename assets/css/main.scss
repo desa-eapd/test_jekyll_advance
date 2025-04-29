@@ -59,9 +59,7 @@ html[data-bs-theme='dark'] {
   color: white;
 }
 
-@import 'style';
-
-a.button.outline-light {
+.button.outline-light {
   background-color: white !important;
   color: #2a57f1 !important;
   border: none !important;
@@ -69,3 +67,5 @@ a.button.outline-light {
   padding: 12px 24px !important;
   font-weight: 500 !important;
 }
+
+@import 'style';
