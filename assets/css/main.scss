@@ -60,7 +60,13 @@ html[data-bs-theme='dark'] {
 }
 
 .text-center {
-  text-align: center !important;
+  text-align: center;
+}
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
 }
 
 @import 'style';
