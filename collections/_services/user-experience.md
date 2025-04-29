@@ -34,7 +34,11 @@ hero:
         outline: true
         style: "light"
 
-
+grid:
+  collection: "projects"
+  sort_by: "weight"
+  columns: 1
+  prevent_click: false
 
 ---
 <!-- NOW YOUR PAGE CONTENT STARTS -->
