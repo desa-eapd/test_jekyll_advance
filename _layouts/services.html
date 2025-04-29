@@ -20,13 +20,15 @@ body_classes: page-service
 {% else %}
   <div class="section">
     <div class="container text-center">
-      {% include framework/title.html
-        fa_icon=page.fa_icon
-        icon=page.icon
-        title=page.title
-        description=page.description
-        image=page.image
-      %}
+      {% if page.title %}
+        <h1 class="page-title">{{ page.title }}</h1>
+      {% endif %}
+      {% if page.description %}
+        <p class="page-description">{{ page.description }}</p>
+      {% endif %}
+      {% if page.image %}
+        <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" class="page-image">
+      {% endif %}
     </div>
   </div>
 {% endif %}
@@ -39,7 +41,7 @@ body_classes: page-service
         {% if site.enable_breadcrumbs_services %}
           {% include framework/breadcrumbs.html %}
         {% endif %}
-        <div class="content text-center">
+        <div class="content">
           {{ content }}
         </div>
       </div>
