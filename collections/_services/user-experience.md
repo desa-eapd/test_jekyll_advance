@@ -12,18 +12,19 @@ image: "/assets/images/gen/services/service-4.webp"
 permalink: "/clews/"
 header_transparent: true
 
+
 hero:
   enabled: true
   heading: "CLEWs"
   sub_heading: "We gladly offer a complete range of digital services."
+  height: "800px"
   text_color: "#FFFFFF"
-  background_color: false
-  background_gradient: false
-  background_image: "/assets/images/gen/home/CLEWs.png"
-  background_image_blend_mode: screen
-  fullscreen_mobile: false
+  background_color: "#1d2830"
+  background_gradient: true
+  background_image: "/assets/images/gen/home/V2 banner.png"
+  #background_image_blend_mode: overlay # "overlay", "multiply", "screen"
+  fullscreen_mobile: true
   fullscreen_desktop: false
-  height: "500px"
   buttons:
     enabled: false
     list:
