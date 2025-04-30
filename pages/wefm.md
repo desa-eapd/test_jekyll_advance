@@ -1,11 +1,11 @@
 ---
 layout: basic
-title: "About Us"
+title: "WEFM"
 date: 2018-11-28T15:15:34+10:00
 header_transparent: false
-permalink: "/aboutus/"
+permalink: "/wefm/"
 description: "Business plan hackathon handshake responsive web design."
-image: "/assets/images/gen/content/content-5.webp"
+image: "/assets/images/gen/home/WEFM.jpeg"
 
 hero:
   enabled: false
