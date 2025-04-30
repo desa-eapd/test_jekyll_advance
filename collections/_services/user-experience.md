@@ -15,6 +15,7 @@ header_transparent: true
 
 hero:
   enabled: true
+  align: right
   heading: "CLEWs"
   sub_heading: "We gladly offer a complete range of digital services."
   height: "800px"
