@@ -13,7 +13,7 @@ hero:
   background_color: false
   background_gradient: true
   background_image: "/assets/images/gen/home/OG-Core.png" 
-  background_image_blend_mode: overlay # "overlay", "multiply", "screen"
+  #background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: "500px"
