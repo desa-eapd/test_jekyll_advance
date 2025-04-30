@@ -1,7 +1,7 @@
 ---
-layout: list
 title: OG-Core
 description: "A selection of our digital services"
+weight: 1
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-design-100.png"
