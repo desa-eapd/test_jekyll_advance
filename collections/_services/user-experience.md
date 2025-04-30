@@ -15,7 +15,6 @@ header_transparent: true
 
 hero:
   enabled: true
-  align: right
   heading: "CLEWs"
   sub_heading: "We gladly offer a complete range of digital services."
   height: "800px"
@@ -24,6 +23,7 @@ hero:
   background_gradient: true
   background_image: "/assets/images/gen/home/CLEWs.png"
   #background_image_blend_mode: overlay # "overlay", "multiply", "screen"
+  align: right
   fullscreen_mobile: true
   fullscreen_desktop: false
   buttons:
