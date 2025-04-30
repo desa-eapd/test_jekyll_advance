@@ -28,20 +28,21 @@ body_classes: page-home
 {% endif %}
 
 {%- comment -%}
-If you *do* want to include additional markdown content from home.md, place it here — but avoid repeating the hero content.
-{%- endcomment -%}
-
-{% assign content = content | strip_newlines %}
-{% if content != "" %}
-  <div class="section">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-12 col-lg-10">
-          <div class="content text-center">
-            {{ content }}
+  If you *do* want to include additional markdown content from home.md, place it here — but avoid repeating the hero content.
+  {%- endcomment -%}
+  {%- comment -%}
+  {% assign content = content | strip_newlines %}
+  {% if content != "" %}
+    <div class="section">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-12 col-lg-10">
+            <div class="content text-center">
+              {{ content }}
+            </div>
           </div>
         </div>
       </div>
     </div>
-  </div>
-{% endif %}
+  {% endif %}
+{%- endcomment -%}
