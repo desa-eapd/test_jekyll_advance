@@ -25,8 +25,8 @@
     {% include framework/fonts.html %}
     {% include framework/google-tag-manager.html %}
     {% if page.no_content != true %}
-    {{ content }}
-  {% endif %}
+     {{ content }}
+    {% endif %}
   
   </head>
 <body class="page {% if page.body_classes %}{{ page.body_classes }}{% elsif layout.body_classes %}{{ layout.body_classes }}{% endif %}{% if site.header.fixed %} has-fixed-header{% else %} has-static-header{% endif %}">
