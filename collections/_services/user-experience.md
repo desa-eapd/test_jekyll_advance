@@ -15,8 +15,8 @@ header_transparent: true
 
 hero:
   enabled: true
-  heading: "CLEWs"
-  sub_heading: "We gladly offer a complete range of digital services."
+  heading: 
+  sub_heading: 
   height: "800px"
   text_color: "#FFFFFF"
   text_background: "#000000" 
