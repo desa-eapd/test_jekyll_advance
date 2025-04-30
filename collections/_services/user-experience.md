@@ -38,11 +38,6 @@ hero:
         outline: true
         style: "light"
 
-grid:
-  collection: "projects"
-  sort_by: "weight"
-  columns: 2
-  prevent_click: false
 
 ---
 <!-- NOW YOUR PAGE CONTENT STARTS -->
