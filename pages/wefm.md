@@ -5,7 +5,7 @@ date: 2018-11-28T15:15:34+10:00
 header_transparent: false
 permalink: "/wefm/"
 description: "Business plan hackathon handshake responsive web design."
-image: "/assets/images/gen/home/WEFM.jpeg"
+image: "/assets/images/gen/home/WEFM.png"
 
 hero:
   enabled: false
