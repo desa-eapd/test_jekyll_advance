@@ -22,7 +22,7 @@ hero:
   text_background: "#000000" 
   background_color: "#1d2830"
   background_gradient: true
-  background_image: "/assets/images/gen/home/OG-Core.png"
+  background_image: "/assets/images/gen/home/CLEWs.png"
   #background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   align: right
   fullscreen_mobile: true
