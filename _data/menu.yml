@@ -8,13 +8,13 @@ main:
     weight: 2
    
   - name: CLEWs
-    url: /projects/
+    url: /clews/
     weight: 3
  
   - name: WEFM
     url: /wefm/
     weight: 4
-    
+
   - name: News & Events
     url: /blog/
     weight: 5
