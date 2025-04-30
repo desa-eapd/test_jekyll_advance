@@ -8,8 +8,6 @@ meta_title: Rebuilding Better and Greener from the COVID-19 Pandemic
 
 hero:
   enabled: true
-  heading: "Rebuilding Better and Greener from the COVID-19 Pandemic"
-  sub_heading: "Strengthening policymaking for a sustainable future through data-driven simulations "
   
   buttons:
     enabled: true
