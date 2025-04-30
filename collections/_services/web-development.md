@@ -14,8 +14,6 @@ header_transparent: true
 
 hero:
   enabled: true
-  heading: "OG-Core"
-  sub_heading: "We offer a complete range of digital services."
   text_color: "#FFFFFF"
   background_color: false
   background_gradient: true
