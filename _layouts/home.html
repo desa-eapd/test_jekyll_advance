@@ -12,8 +12,6 @@ body_classes: page-home
     background_color=page.hero.background_color
     background_gradient=page.hero.background_gradient
     text_color=page.hero.text_color
-    text_background=page.hero.text_background
-    align=page.hero.align
     fullscreen_mobile=page.hero.fullscreen_mobile
     fullscreen_desktop=page.hero.fullscreen_desktop
     height=page.hero.height
@@ -27,22 +25,17 @@ body_classes: page-home
   {% endfor %}
 {% endif %}
 
-{%- comment -%}
-  If you *do* want to include additional markdown content from home.md, place it here — but avoid repeating the hero content.
-  {%- endcomment -%}
-  {%- comment -%}
-  {% assign content = content | strip_newlines %}
-  {% if content != "" %}
-    <div class="section">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-12 col-lg-10">
-            <div class="content text-center">
-              {{ content }}
-            </div>
+{% assign content = content | strip_newlines %}
+{% if content != "" %}
+  <div class="section">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-12 col-lg-10">
+          <div class="content text-center">
+            {{ content }}
           </div>
         </div>
       </div>
     </div>
-  {% endif %}
-{%- endcomment -%}
+  </div>
+{% endif %}
