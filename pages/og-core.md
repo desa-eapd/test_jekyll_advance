@@ -12,7 +12,7 @@ hero:
   sub_heading: "We offer a complete range of digital services."
   text_color: "#FFFFFF"
   background_color: false
-  background_gradient: true
+  background_gradient: false
   background_image: "/assets/images/gen/home/OG-Core.png" 
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   fullscreen_mobile: false
