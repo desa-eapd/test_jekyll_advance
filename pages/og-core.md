@@ -4,7 +4,6 @@ title: OG-Core
 description: "A selection of our digital services"
 permalink: "/og-core/"
 header_transparent: true
-background_image: "/assets/images/gen/home/OG-Core.png" 
 
 hero:
   enabled: true
