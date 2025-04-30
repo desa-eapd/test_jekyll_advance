@@ -1,4 +1,5 @@
 ---
+layout: list
 title: OG-Core
 description: "A selection of our digital services"
 weight: 1
