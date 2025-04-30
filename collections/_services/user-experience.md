@@ -19,6 +19,7 @@ hero:
   sub_heading: "We gladly offer a complete range of digital services."
   height: "800px"
   text_color: "#FFFFFF"
+  text_background: "#000000" 
   background_color: "#1d2830"
   background_gradient: true
   background_image: "/assets/images/gen/home/CLEWs.png"
