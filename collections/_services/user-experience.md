@@ -17,7 +17,7 @@ hero:
   enabled: true
   heading: 
   sub_heading: 
-  height: "800px"
+  height: "500px"
   text_color: "#FFFFFF"
   text_background: "#000000" 
   background_color: "#1d2830"
