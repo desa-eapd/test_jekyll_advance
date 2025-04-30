@@ -20,7 +20,7 @@ hero:
   background_color: false
   background_gradient: false
   background_image: "/assets/images/gen/home/CLEWs.png"
-  #background_image_blend_mode: overlay
+  background_image_blend_mode: screen
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: "500px"
