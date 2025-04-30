@@ -12,8 +12,9 @@ main:
     weight: 3
  
   - name: WEFM
-    url: /about/
+    url: /wefm/
     weight: 4
+    
   - name: News & Events
     url: /blog/
     weight: 5
