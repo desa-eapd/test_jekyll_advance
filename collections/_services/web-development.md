@@ -23,9 +23,14 @@ hero:
   background_color: "#1d2830"
   background_gradient: true
   background_image: "/assets/images/gen/home/OG-Core.png"
+<<<<<<< HEAD
   #background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   align: right
   fullscreen_mobile: true
+=======
+  background_image_blend_mode: overlay # "overlay", "multiply", "screen"
+  fullscreen_mobile: false
+>>>>>>> parent of 34d9836 (Update web-development.md)
   fullscreen_desktop: false
   buttons:
     enabled: false
